@@ -1,0 +1,15 @@
+Status	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710315.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710316.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710317.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710318.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710319.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710320.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710321.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710322.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710323.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710324.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710325.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710326.sorted.bam	/home/prithvirajgavai/rnaseq_pipeline/aligned/SRR24710327.sorted.bam
+Assigned	12577768	11485704	16971681	13599086	15380345	15378670	13639154	11308270	2337339	16466212	21294100	22704470	30244508
+Unassigned_Unmapped	404358	387556	522959	319199	341503	332744	348435	223129	73757	337419	456675	366460	455244
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	901845	776032	1350858	995187	1254045	1077915	1013656	824393	164218	1066887	1451913	1585558	2117169
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	516339	756855	766022	407886	468919	427100	390888	186885	36983	655509	652555	597979	1141045
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	47030	39443	59343	58711	73048	68381	56426	37854	7201	55690	74241	81404	110760

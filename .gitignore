@@ -1,0 +1,18 @@
+# Raw & intermediate sequencing data (too large for git)
+fastq/
+trimmed/
+aligned/
+reference/
+
+# QC reports and logs (generated outputs)
+qc/
+logs/
+*.log
+
+# Temporary / system files
+.DS_Store
+*.tmp
+*.bak
+__pycache__/
+.Rhistory
+.RData
