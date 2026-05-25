@@ -21,9 +21,9 @@ End-to-end RNA-seq pipeline for differential expression and functional enrichmen
 
 - **PC1 (95% variance)** completely separates the two lines , the heat-selected line has inherited a fundamentally different transcriptome across generations
 - **All 6 control line samples cluster together** on PCA regardless of treatment, heat stress does not reprogram the transcriptome of an unprimed plant
-- The **interaction contrast (Contrast C)** identified genes reaching –log₁₀P = 70, confirming a qualitatively different stress response in the primed line — not a stronger version of the same response, a different one entirely
+- The **interaction contrast (Contrast C)** identified genes reaching –log₁₀P = 70, confirming a qualitatively different stress response in the primed line not a stronger version of the same response, a different one entirely
 - **KEGG enrichment** revealed MAPK signalling, plant hormone signal transduction (120 genes), and cutin/wax biosynthesis uniquely enriched in the primed stress response
-- **Mechanism:** global hypomethylation of mitochondrial DNA reducing respiratory losses — epigenetic memory without any change in DNA sequence
+- **Mechanism:** global hypomethylation of mitochondrial DNA reducing respiratory losses epigenetic memory without any change in DNA sequence
 
 ---
 
